@@ -17,6 +17,7 @@ class Forecast extends CI_Controller {
 	 * So any other public methods not prefixed with an underscore will
 	 * map to /index.php/welcome/<method_name>
 	 * @see https://codeigniter.com/user_guide/general/urls.html
+	 * Develope by vrushal raut vrushalrt@gmail.com
 	 */
 	public function index()
 	{

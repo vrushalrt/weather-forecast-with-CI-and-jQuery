@@ -1,4 +1,9 @@
-<?php //echo '<pre>'; 
+<?php 
+/**
+	This Developed version code for learning purpose not for commmercial.
+	any further queries contact vrushalrt@gmail.com
+**/
+	  //echo '<pre>'; 
       //print_r($hourly['hourly_forecast']); exit();
       //print_r($hourly['hourly_forecast'][1]['FCTTIME']['civil']); exit();
       //$i=0;
